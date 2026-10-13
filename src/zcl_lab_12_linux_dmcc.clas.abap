@@ -1,0 +1,11 @@
+CLASS zcl_lab_12_linux_dmcc DEFINITION
+  PUBLIC
+  INHERITING FROM zcl_lab_11_system_dmcc
+  FINAL
+  CREATE PUBLIC.
+
+  PUBLIC SECTION.
+ENDCLASS.
+
+CLASS zcl_lab_12_linux_dmcc IMPLEMENTATION.
+ENDCLASS.

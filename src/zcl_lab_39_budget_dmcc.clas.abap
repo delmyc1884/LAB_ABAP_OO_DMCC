@@ -1,0 +1,10 @@
+CLASS zcl_lab_39_budget_dmcc DEFINITION
+  PUBLIC
+  ABSTRACT
+  CREATE PUBLIC.
+  PUBLIC SECTION.
+    METHODS get_budget ABSTRACT
+      RETURNING VALUE(rv_budget) TYPE string.
+ENDCLASS.
+CLASS zcl_lab_39_budget_dmcc IMPLEMENTATION.
+ENDCLASS.

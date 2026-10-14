@@ -1,0 +1,9 @@
+CLASS zcl_lab_38_prod_price_dmcc DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC.
+  PUBLIC SECTION.
+    DATA price TYPE i.
+ENDCLASS.
+CLASS zcl_lab_38_prod_price_dmcc IMPLEMENTATION.
+ENDCLASS.

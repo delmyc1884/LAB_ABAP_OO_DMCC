@@ -1,0 +1,3 @@
+CLASS zcx_lab_55_auth_iban IMPLEMENTATION.
+ENDCLASS.
+
